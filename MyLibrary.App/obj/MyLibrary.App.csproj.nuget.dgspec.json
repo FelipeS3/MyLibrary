@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\source\\repos\\MyLibrary.App\\MyLibrary.App\\MyLibrary.App.csproj": {}
+    "C:\\Users\\felip\\source\\repos\\MyLibrary\\MyLibrary.App\\MyLibrary.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\source\\repos\\MyLibrary.App\\MyLibrary.App\\MyLibrary.App.csproj": {
+    "C:\\Users\\felip\\source\\repos\\MyLibrary\\MyLibrary.App\\MyLibrary.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\MyLibrary.App\\MyLibrary.App\\MyLibrary.App.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\MyLibrary\\MyLibrary.App\\MyLibrary.App.csproj",
         "projectName": "MyLibrary.App",
-        "projectPath": "C:\\Users\\felip\\source\\repos\\MyLibrary.App\\MyLibrary.App\\MyLibrary.App.csproj",
+        "projectPath": "C:\\Users\\felip\\source\\repos\\MyLibrary\\MyLibrary.App\\MyLibrary.App.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\source\\repos\\MyLibrary.App\\MyLibrary.App\\obj\\",
+        "outputPath": "C:\\Users\\felip\\source\\repos\\MyLibrary\\MyLibrary.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
